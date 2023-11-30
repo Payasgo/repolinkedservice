@@ -8,8 +8,14 @@
 		"SqlServer1_connectionString": {
 			"value": "Integrated Security=False;Data Source=@{linkedService().ServerName};Initial Catalog=@{linkedService().DBNames};User ID=azure"
 		},
+		"LS_AzureDataLakeStorage_accountKey": {
+			"value": ""
+		},
 		"LS_AzureKeyVault_properties_typeProperties_baseUrl": {
 			"value": "https://Azurekeyslock.vault.azure.net/"
+		},
+		"LS_AzureDataLakeStorage_properties_typeProperties_url": {
+			"value": "https://conslu.dfs.core.windows.net/"
 		}
 	}
 }
