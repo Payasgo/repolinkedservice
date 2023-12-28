@@ -1,0 +1,9 @@
+{
+	"name": "CPP",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2fdc021d-d1f5-414b-8445-833ef327dd73",
+		"tenantId": "2db0e13c-89f2-4a67-88ce-504c6fb70607"
+	}
+}
