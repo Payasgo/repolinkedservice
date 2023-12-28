@@ -1,0 +1,10 @@
+{
+	"name": "LS_SR_AzureKeyVault",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://cppser.vault.azure.net/"
+		}
+	}
+}
